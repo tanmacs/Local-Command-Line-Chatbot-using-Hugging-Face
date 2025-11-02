@@ -175,10 +175,9 @@ Possible improvements:
 
 ## License
 
-This project is created for educational purposes as part of the ATG Technical Assignment.
+This project is created for educational purposes.
 
 ---
 
 **Developed by:** Tanmay Rahul Kalanke  
-**Date:** October 2025  
-**Assignment:** ATG Machine Learning Intern - Local CLI Chatbot
+**Date:** October 2025
